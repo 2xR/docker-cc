@@ -1,0 +1,6 @@
+docker-cc:
+  includes:
+  - a
+  - b
+  - c*
+  name: foo
